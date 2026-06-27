@@ -193,5 +193,5 @@ export const MOTIVATION_TEXT =
 
 export const MOTIVATION_HIGHLIGHTS = ["Excellence", "discipline", "systems", "chaos"];
 
-export const HERO_VIDEO = "https://www.pexels.com/download/video/38294891/";
+export const HERO_VIDEO = "https://jumpshare.com/share/jx5OAkRxncWTdYtsLmdg";
 export const HERO_FALLBACK = "https://images.pexels.com/photos/34718931/pexels-photo-34718931.jpeg?auto=compress&w=1920&q=80";
